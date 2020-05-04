@@ -19,7 +19,7 @@ public class ClassA extends HttpServlet {
     }
 
     public void destroy() {
-    //	super.destroy();
+    	super.destroy();
 
     }
 }
