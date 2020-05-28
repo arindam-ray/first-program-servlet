@@ -1,4 +1,5 @@
 <web-app>
+<display-name>Servlet - My First Program , calling of two different classes</display-name>
     <servlet>
         <servlet-name>servlet1</servlet-name>
         <servlet-class>ClassA</servlet-class>
